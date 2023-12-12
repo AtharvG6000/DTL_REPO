@@ -15,5 +15,7 @@ double res = pow(n1,n2);
 
 // print the result
 printf("Result : %lf \n" ,res );
+
 return 0;
+
 }
